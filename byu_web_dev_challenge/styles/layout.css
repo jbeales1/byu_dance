@@ -1,0 +1,79 @@
+body {
+    background-color: royalblue;
+}
+
+.common {
+    background-color: white;
+    border: black solid 2px;
+    position: absolute;
+}
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 160px;
+    background-image: url(https://cas.byu.edu/cas/images/byu-bkgd-noblur2.jpg);
+    background-size: cover;
+}
+
+.leftmenu{
+    top: 169px;
+    left: 5px;
+    width: 120px;
+    bottom: 100px;
+    background-color: rgb(8, 8, 53);
+}
+
+.mainbody{
+    top: 169px;
+    left: 129px;
+    right: 129px;
+    bottom: 100px;
+    background-color: rgb(240, 238, 238);
+
+}
+.rightmenu{
+    top: 169px;
+    right: 5px;
+    width: 120px;
+    bottom: 100px;
+    background-color: rgb(8, 8, 53);
+
+}
+.footer{
+    left: 5px;
+    right: 5px;
+    bottom: 5px;
+    height: 91px;
+    padding-left: 10px;
+    background-color: lightgrey;
+
+}
+
+.links {
+    float: right;
+    
+}
+
+.byu_logo {
+    height: 105px;
+    display: block;
+    margin: auto;
+    
+}
+
+.byu_dance {
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    padding-top: 10px;
+}
+
+.faculty_headshots{
+    padding-left: 20px;
+}
+
+

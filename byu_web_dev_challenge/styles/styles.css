@@ -1,0 +1,70 @@
+.side_links {
+    color: white;
+    padding-left: 5px;
+
+}
+
+.headings {
+    font-weight: bold;
+    font-size: x-large;
+    color: black;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.bold{
+    font-weight: bold;
+    margin: 5px;
+    padding-left: 15px;
+}
+
+.title {
+    font-weight: normal;
+}
+
+.contact_info{
+    font-weight: normal;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 17px;
+    font-size: medium;
+}
+
+.grey_box{
+    background-color: lightgray;
+    width: 300px;
+    height: 12px;
+    padding: 5px;
+    padding-right: 300px;
+    color: gray;
+}
+
+.fields{
+    padding-left: 10px;
+}
+
+.green-button {
+    background-color: #4CAF50; /* Green color */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.video-container {
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    /* height: 100vh; Adjust height as needed */
+}
+
+.video-container iframe {
+    max-width: 80%; /* Adjust width as needed */
+    max-height: 80%; /* Adjust height as needed */
+}
